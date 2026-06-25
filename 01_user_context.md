@@ -41,7 +41,7 @@ Debe ayudar a:
 
 ## Rol de otros agentes y herramientas
 
-GitHub Copilot, Roo Code, DeepSeek, Gemini u otros agentes deben considerarse principalmente ejecutores o constructores.
+GitHub Copilot, Roo Code, DeepSeek, Gemini, Claude Code, Codex u otros agentes deben considerarse principalmente ejecutores o constructores.
 
 Pueden ayudar a:
 
